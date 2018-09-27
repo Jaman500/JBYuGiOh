@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: bba0edcc272f84c409ecd068b20d7e4c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BlueEyes_chin
+    100002: BlueEyes_GlobalSRT
+    100004: BlueEyes_Head
+    100006: BlueEyes_L_Wing1
+    100008: BlueEyes_L_Wing2
+    100010: BlueEyes_L_Wing3
+    100012: BlueEyes_L_Wing4
+    100014: BlueEyes_L_Wing5
+    100016: BlueEyes_L_Wing8
+    100018: BlueEyes_L_Wing9
+    100020: BlueEyes_LBicep
+    100022: BlueEyes_LFootBone1
+    100024: BlueEyes_LFootBone2
+    100026: BlueEyes_LFootBone3
+    100028: BlueEyes_LForearm
+    100030: BlueEyes_LHand
+    100032: BlueEyes_LIndex1
+    100034: BlueEyes_LIndex2
+    100036: BlueEyes_LMiddle1
+    100038: BlueEyes_LMiddle2
+    100040: BlueEyes_LRing1
+    100042: BlueEyes_LRing2
+    100044: BlueEyes_LShin
+    100046: BlueEyes_LShoulder
+    100048: BlueEyes_LThigh
+    100050: BlueEyes_LThumb1
+    100052: BlueEyes_Lumbar1
+    100054: BlueEyes_Lumbar2
+    100056: BlueEyes_Lumbar3
+    100058: BlueEyes_Neck
+    100060: BlueEyes_Neck1
+    100062: BlueEyes_Neck2
+    100064: BlueEyes_Neck3
+    100066: BlueEyes_R_Wing1
+    100068: BlueEyes_R_Wing2
+    100070: BlueEyes_R_Wing3
+    100072: BlueEyes_R_Wing4
+    100074: BlueEyes_R_Wing5
+    100076: BlueEyes_R_Wing8
+    100078: BlueEyes_R_Wing9
+    100080: BlueEyes_RBicep
+    100082: BlueEyes_RFootBone1
+    100084: BlueEyes_RFootBone2
+    100086: BlueEyes_RFootBone3
+    100088: BlueEyes_RForearm
+    100090: BlueEyes_RHand
+    100092: BlueEyes_RIndex1
+    100094: BlueEyes_RIndex2
+    100096: BlueEyes_RMiddle1
+    100098: BlueEyes_RMiddle2
+    100100: BlueEyes_RRing1
+    100102: BlueEyes_RRing2
+    100104: BlueEyes_RShin
+    100106: BlueEyes_RShoulder
+    100108: BlueEyes_RThigh
+    100110: BlueEyes_RThumb1
+    100112: BlueEyes_tail1
+    100114: BlueEyes_tail2
+    100116: BlueEyes_tail3
+    100118: BlueEyes_tail4
+    100120: BlueEyes_tail5
+    100122: BlueEyes_UpperBody
+    100124: Effectposition001
+    100126: M001_BlueEyes
+    100128: M001_BlueEyes_joint
+    100130: M001_BlueEyes_Root
+    100132: mesh0
+    100134: mesh0 1
+    100136: mesh1
+    100138: mesh1 1
+    100140: //RootNode
+    400000: BlueEyes_chin
+    400002: BlueEyes_GlobalSRT
+    400004: BlueEyes_Head
+    400006: BlueEyes_L_Wing1
+    400008: BlueEyes_L_Wing2
+    400010: BlueEyes_L_Wing3
+    400012: BlueEyes_L_Wing4
+    400014: BlueEyes_L_Wing5
+    400016: BlueEyes_L_Wing8
+    400018: BlueEyes_L_Wing9
+    400020: BlueEyes_LBicep
+    400022: BlueEyes_LFootBone1
+    400024: BlueEyes_LFootBone2
+    400026: BlueEyes_LFootBone3
+    400028: BlueEyes_LForearm
+    400030: BlueEyes_LHand
+    400032: BlueEyes_LIndex1
+    400034: BlueEyes_LIndex2
+    400036: BlueEyes_LMiddle1
+    400038: BlueEyes_LMiddle2
+    400040: BlueEyes_LRing1
+    400042: BlueEyes_LRing2
+    400044: BlueEyes_LShin
+    400046: BlueEyes_LShoulder
+    400048: BlueEyes_LThigh
+    400050: BlueEyes_LThumb1
+    400052: BlueEyes_Lumbar1
+    400054: BlueEyes_Lumbar2
+    400056: BlueEyes_Lumbar3
+    400058: BlueEyes_Neck
+    400060: BlueEyes_Neck1
+    400062: BlueEyes_Neck2
+    400064: BlueEyes_Neck3
+    400066: BlueEyes_R_Wing1
+    400068: BlueEyes_R_Wing2
+    400070: BlueEyes_R_Wing3
+    400072: BlueEyes_R_Wing4
+    400074: BlueEyes_R_Wing5
+    400076: BlueEyes_R_Wing8
+    400078: BlueEyes_R_Wing9
+    400080: BlueEyes_RBicep
+    400082: BlueEyes_RFootBone1
+    400084: BlueEyes_RFootBone2
+    400086: BlueEyes_RFootBone3
+    400088: BlueEyes_RForearm
+    400090: BlueEyes_RHand
+    400092: BlueEyes_RIndex1
+    400094: BlueEyes_RIndex2
+    400096: BlueEyes_RMiddle1
+    400098: BlueEyes_RMiddle2
+    400100: BlueEyes_RRing1
+    400102: BlueEyes_RRing2
+    400104: BlueEyes_RShin
+    400106: BlueEyes_RShoulder
+    400108: BlueEyes_RThigh
+    400110: BlueEyes_RThumb1
+    400112: BlueEyes_tail1
+    400114: BlueEyes_tail2
+    400116: BlueEyes_tail3
+    400118: BlueEyes_tail4
+    400120: BlueEyes_tail5
+    400122: BlueEyes_UpperBody
+    400124: Effectposition001
+    400126: M001_BlueEyes
+    400128: M001_BlueEyes_joint
+    400130: M001_BlueEyes_Root
+    400132: mesh0
+    400134: mesh0 1
+    400136: mesh1
+    400138: mesh1 1
+    400140: //RootNode
+    2100000: m001_BlueEyes_01
+    2100002: m001_BlueEyes_02
+    4300000: mesh0
+    4300002: mesh1
+    9500000: //RootNode
+    13700000: mesh0 1
+    13700002: mesh1 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
