@@ -11,13 +11,16 @@ public class Monster : MonoBehaviour {
 	public Monster enemy;
 	public Player daddy;
 	// Use this for initialization
-	void Start () {
+	void Start()
+    {
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		if(Input.GetKeyDown(KeyCode.Space)){
+	void Update ()
+    {
+		if(Input.GetKeyDown(KeyCode.Space))
+        {
 			this.Attack(enemy);
 		}
 	}
