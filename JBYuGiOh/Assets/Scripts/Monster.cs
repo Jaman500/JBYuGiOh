@@ -24,6 +24,7 @@ public class Monster : MonoBehaviour {
 	//Calculation method for Battle Phase
 	void Attack(Monster m)
 	{
+		Debug.Log("Fuck that bitch");
 		if(atk > m.atk){
 			//attacked monster dies
 			//destroy game object
