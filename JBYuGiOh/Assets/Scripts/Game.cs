@@ -20,13 +20,13 @@ public class Game : MonoBehaviour
         turnNum = 0;
 	}
 	
-    public void advanceTurn()
+    public void AdvanceTurn()
     {
         turnNum++;
     }
 
     // Calculate the value of the player whose turn it currently is
-	public int getPlayerTurn()
+	public int GetPlayerTurn()
     {
         return turnNum % players.Length;
     }
